@@ -1,0 +1,70 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );}
+#payment {
+  width: 325px;
+  height: 530px;
+  margin-right: 20px;
+  float: right;
+  background-color: wheat;
+  opacity: 0.5;
+}
+#price {
+  width: 49%;
+  margin-left: 22%;
+}
+#priceMonitor {
+  width: 50%;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 21%;
+  opacity: 0.6;
+  box-shadow: 0 0 100px rgb(255 255 255 / 50%);
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+#percent {
+  width: 49%;
+  margin-left: 22%;
+}
+#percentMonitor {
+  width: 50%;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 21%;
+  opacity: 0.6;
+  box-shadow: 0 0 100px rgb(255 255 255 / 50%);
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+#term {
+  width: 49%;
+  margin-left: 22%;
+}
+#termMonitor {
+  width: 50%;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 21%;
+  opacity: 0.6;
+  box-shadow: 0 0 100px rgb(255 255 255 / 50%);
+}
